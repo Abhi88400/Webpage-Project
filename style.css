@@ -1,0 +1,214 @@
+.lead {
+    font-size: 1.25rem;
+    font-weight: 300;
+    text-align: center;
+    margin: 0;
+    font-weight: bold;
+    color: #FF6600;
+}
+
+
+.display {
+    color: #000000;
+    text-align: center;
+    font-size: calc(1.675rem + 5.1vw);
+    ;
+    font-weight: 300;
+    line-height: 1.2;
+}
+
+.container-div {
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+h1 {
+    margin-bottom: 0.5rem;
+    font-family: "Raleway", sans-serif;
+}
+
+.subContainer {
+    margin-top: 2rem;
+}
+
+.NavImage {
+    display: flex;
+    flex: 1;
+}
+
+.NavImage img {
+    height: 6rem;
+    border-radius: 50%;
+    flex: 0;
+}
+
+.NavRow {
+    width: 100%;
+    display: flex;
+    flex: 1;
+    justify-content: space-around;
+    margin-left: 1rem;
+}
+
+span {
+    display: block;
+}
+
+.box {
+    border: 2px solid black;
+    border-radius: 1rem;
+    letter-spacing: 7px;
+    height: fit-content;
+    padding: 6px;
+}
+
+.templateFont {
+    border: 2px solid #000000;
+    border-radius: 10px;
+
+
+}
+
+.skill-template-1 {
+    flex: 0.5rem;
+    margin-left: 1rem;
+    display: flex;
+    justify-content: center;
+}
+
+.skill-template-2 {
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+}
+
+.templateFont {
+    padding-left: 8px;
+    background-color: #86136d;
+    padding-right: 8px;
+    color: azure;
+}
+
+.fill-img {
+    margin-top: 2rem;
+    display: block;
+    text-align: center;
+
+
+}
+
+.fill-img img {
+    width: 80%;
+}
+
+.article-paragraph {
+    font-size: 22px;
+    font-weight: bold;
+
+}
+
+.article-section {
+    /* text-align: center; */
+    margin-left: 11rem;
+    margin-right: 9rem;
+}
+
+.article {
+    margin-top: 10px;
+    margin-left: 2rem;
+}
+
+.sub-article-1 {
+    display: flex;
+    flex-direction: column;
+    /* text-align: center; */
+    font-size: 22px;
+    margin-left: 11rem;
+    margin-right: 9rem;
+}
+
+
+.sub-article-2 {
+    display: flex;
+    flex-direction: column;
+    /* text-align: center; */
+    font-size: 22px;
+    margin-left: 11rem;
+    margin-right: 9rem;
+
+}
+
+.sub-article-3 {
+    display: flex;
+    flex-direction: column;
+    /* text-align: center; */
+    font-size: 22px;
+    margin-left: 11rem;
+    margin-right: 9rem;
+
+}
+
+.Form-box {
+    box-sizing: border-box;
+    margin-top: 3rem;
+    width: 70%;
+    background-color: white;
+    height: 11rem;
+    margin-left: 11rem;
+    box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset, rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset, rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+
+}
+
+.form-headings {
+    text-align: center;
+}
+
+.inputForm {
+    margin: auto;
+    display: block;
+    width: 200px;
+}
+
+.form-headings h3 {
+    font-size: 2rem;
+}
+
+
+.form-subscribe {
+    display: block;
+    text-align: center;
+}
+
+.subscribeHeadings {
+    background-color: #000000;
+    color: white;
+    border: 2px solid orange;
+    border-radius: 2rem;
+
+}
+
+.Form-box {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.Link{
+    background-color: white;
+    border: 1px solid gray;
+
+}
+.increseWidth{
+    width: 6rem;
+}
+.h5Heading{
+    color: grey;
+}
+
+.Heading-blogs{
+    text-align: center;
+    color: darkcyan;
+    border: 1px solid black;
+    border-radius: 6px;
+    margin-top: 4px;
+}
